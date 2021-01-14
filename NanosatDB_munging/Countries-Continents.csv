@@ -3,15 +3,15 @@ Africa,Algeria
 Africa,Angola
 Africa,Benin
 Africa,Botswana
-Africa,Burkina
+Africa,Burkina Faso
 Africa,Burundi
 Africa,Cameroon
 Africa,Cape Verde
 Africa,Central African Republic
 Africa,Chad
 Africa,Comoros
-Africa,Congo
-Africa,"Congo, Democratic Republic of"
+Africa,Congo, DRC
+Africa,Congo, Rep
 Africa,Djibouti
 Africa,Egypt
 Africa,Equatorial Guinea
@@ -22,7 +22,7 @@ Africa,Gambia
 Africa,Ghana
 Africa,Guinea
 Africa,Guinea-Bissau
-Africa,Ivory Coast
+Africa,Côte d'Ivoire
 Africa,Kenya
 Africa,Lesotho
 Africa,Liberia
@@ -74,7 +74,7 @@ Asia,"Korea, North"
 Asia,"Korea, South"
 Asia,Kuwait
 Asia,Kyrgyzstan
-Asia,Laos
+Asia,Lao
 Asia,Lebanon
 Asia,Malaysia
 Asia,Maldives
@@ -84,7 +84,7 @@ Asia,Oman
 Asia,Pakistan
 Asia,Philippines
 Asia,Qatar
-Asia,Russian Federation
+Asia,Russian Fed
 Asia,Saudi Arabia
 Asia,Singapore
 Asia,Sri Lanka
@@ -93,7 +93,7 @@ Asia,Tajikistan
 Asia,Thailand
 Asia,Turkey
 Asia,Turkmenistan
-Asia,United Arab Emirates
+Asia,UAE
 Asia,Uzbekistan
 Asia,Vietnam
 Asia,Yemen
@@ -104,11 +104,11 @@ Europe,Austria
 Europe,Azerbaijan
 Europe,Belarus
 Europe,Belgium
-Europe,Bosnia and Herzegovina
+Europe,Bosnia
 Europe,Bulgaria
 Europe,Croatia
 Europe,Cyprus
-Europe,CZ
+Europe,Czech Rep.
 Europe,Denmark
 Europe,Estonia
 Europe,Finland
@@ -124,7 +124,7 @@ Europe,Latvia
 Europe,Liechtenstein
 Europe,Lithuania
 Europe,Luxembourg
-Europe,Macedonia
+Europe,Macedonia, FYR
 Europe,Malta
 Europe,Moldova
 Europe,Monaco
@@ -144,7 +144,7 @@ Europe,Switzerland
 Europe,Ukraine
 Europe,United Kingdom
 Europe,Vatican City
-North America,Antigua and Barbuda
+North America,Antigua & Barbuda
 North America,Bahamas
 North America,Barbados
 North America,Belize
@@ -166,7 +166,7 @@ North America,Saint Kitts and Nevis
 North America,Saint Lucia
 North America,Saint Vincent and the Grenadines
 North America,Trinidad and Tobago
-North America,US
+North America,USA
 Oceania,Australia
 Oceania,Fiji
 Oceania,Kiribati
@@ -177,7 +177,7 @@ Oceania,New Zealand
 Oceania,Palau
 Oceania,Papua New Guinea
 Oceania,Samoa
-Oceania,Solomon Islands
+Oceania,Solomon Isl.
 Oceania,Tonga
 Oceania,Tuvalu
 Oceania,Vanuatu
@@ -193,3 +193,24 @@ South America,Peru
 South America,Suriname
 South America,Uruguay
 South America,Venezuela
+South America,Falkland Islands
+North America,Montserrat
+Oceania,New Caledonia
+North America,Puerto Rico
+Africa,Tanzania
+North America,Bermuda
+Africa,Central African Rep
+Oceania,Cook Isl.
+North America,Dominican Rep
+Oceania,French Polynesia
+Asia,Macau
+Asia,Myanmar
+Oceania,Norfolk Isl.
+Europe,Southeast Europe
+North America,Trinidad & Tobago
+Europe,England & Wales
+Asia,Hong Kong
+North America,Netherlands Antilles
+Asia,Palestinian
+Africa,Sao Tome & Principe
+Asia,Taiwan
